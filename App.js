@@ -5,7 +5,7 @@ import { Ionicons } from '@expo/vector-icons';
 
 
 const {width: SCREEN_WIDTH} = Dimensions.get('window');
-const API_KEY = "27240f6a2d49d61b82ff0ceb606c8a82";
+const API_KEY = "???";
 
 
 const icons = {
